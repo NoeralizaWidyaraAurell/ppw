@@ -14,20 +14,20 @@ permalink: /:title/
 # Authors
 authors:
   nama:
-    name: Nama
-    display_name: Nama
+    name: Noerasliza Widyara Aurell
+    display_name: Noerasliza Widyara Aurell
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: isi email
-    web: isi web
-    twitter: https://twitter.com/isi id
-    description: "isi tentang kamu."
-  john:
-    name: John
-    display_name: John    
+    email: widyara.aurell19@gmail.com
+    web: NoeralizaWidyaraAurell.github.io
+    twitter: Noeraliza Widyara Aurell
+    description: "No Profile."
+  Noeraliza Widyara Aurell:
+    name: Noeraliza Widyara Aurell
+    display_name: Noeraliza Widyara Aurell 
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: Ahmadalwy@gmail.com
-    web: https://postkomik.github.io
+    email: widyara.aurell19@gmail.com
+    web: NoeralizaWidyaraAurell.github.io
     twitter: https://twitter.com/OnlienPejuang
     description: "Belajar menjadi baik dan pantang menyerah "
   pelajar:
