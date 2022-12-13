@@ -1,10 +1,10 @@
 # Site
-name: "pelajar blogger"
-title: "pelajar blogger"
-description: "berbagi informasi menarik seputar dunia maya yang sangat menarik"
+name: "Noeraliza Widyara Aurell"
+title: "Pencarian dan Penambangan Web"
+description: "berbagi informasi menarik seputar Crawling yang sangat menarik"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/postkomik.jpg'
-baseurl: '/post'
+baseurl: '/ppw'
 google_analytics: 'UA-190682519-1'
 disqus: 'pelajarblog'
 
