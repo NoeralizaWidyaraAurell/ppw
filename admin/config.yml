@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: pelajarblog/post
+  repo: NoeralizaWidyaraAurell/ppw
   branch: main
 publish_mode: editorial_workflow
 media_folder: "assets/images"
