@@ -4,9 +4,9 @@ title: Privacy policy
 permalink: /privacy%20policy
 date: 2021-02-25T19:25:39.048Z
 ---
-<h1>Privacy Policy for pelajar blog</h1>
+<h1>Privacy Policy for MyWebsite</h1>
 
-<p>At pelajar blog, accessible from https://pelajarblog.github.io/post/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by pelajar blog and how we use it.</p>
+<p>At pelajar blog, accessible from https://NoeralizaWidyaraAurell.github.io/ppw/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by pelajar blog and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 
